@@ -1,2 +1,6 @@
-# git-clone-tool
-A simple tool for easy clone git repo on windows
+# Git Clone Tool
+A simple tool to easy clone git repo on windows
+
+### Get [installer](git-clone-installer.bat)
+
+![demo](/demo.png)
